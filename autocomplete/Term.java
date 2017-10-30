@@ -1,7 +1,4 @@
-import edu.princeton.cs.algs4.In;
-import edu.princeton.cs.algs4.StdOut;
-import java.util.Arrays;
-import java.util.Comparator;
+
 
 // An immutable data type that represents an autocomplete term: a query string 
 // and an associated real-valued weight.
