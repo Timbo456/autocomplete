@@ -1,0 +1,29 @@
+1. Hours to complete the project: This took at least 25 hours. 
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Brute-force Implementation): Used the slides from class as
+				much as possible. This was difficult, but not as bad as part 
+				two. The nearest neighbor took a while to figure out. 
+
+   Problem 2 (2d-tree Implementation): This was challenging. I had a lot of 
+				trouble with the puts and gets, as well as nearest. Got hung up
+				on a loop, because my MaxPQ was out of order. Fortunatly it 
+				printed output for different sections or I wouldn't have been
+				able to troubleshoot. Very hard. 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+  Swami              Professor      Went to office helped with nearest and gets.
+  Alexandra				TA			Helped get me out of loop and fix the NULL issue; 
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+	Problem took a lot of time and was a headache. Learned a lot but was
+	a lot of trial and error. 
